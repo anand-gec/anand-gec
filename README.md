@@ -1,128 +1,98 @@
-# Hi 👋, I'm Anand
+# Hi 👋, I'm Anand Kumar
 
-### 💻 Backend Developer | 🚀 API Enthusiast | 🇮🇳 India
+### 💻 Backend Developer | 🚀 Go & Python Specialist | 🇮🇳 Bengaluru, India
 
-Welcome to my GitHub profile! 👨‍💻
+[![GitHub Followers](https://img.shields.io/github/followers/anand-gec?label=Follow&style=social)](https://github.com/anand-gec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com)
+[![Portfolio / Contact](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:your-email@example.com)
 
-I'm a passionate developer who enjoys building backend applications, REST APIs, and learning new technologies. I enjoy solving problems and continuously improving my programming skills.
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 Currently working on **Backend Development Projects**
-- 🌱 Currently learning **Advanced Backend Development & System Design**
-- 💻 Interested in **Golang, Python, FastAPI, REST APIs, Docker, and Databases**
-- 🚀 Building projects to improve my development skills
-- 📚 Always learning new technologies
-- ⚡ I enjoy building and experimenting with APIs
+I am an entry-level backend software engineer passionate about building reliable, scalable, and high-performance server-side architectures. My core focus centers on designing production-grade REST APIs in **Go** and **Python**, implementing Clean Architecture, and managing relational database persistence.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 👨‍💻 What I Do
 
-### 💻 Programming Languages
+- 🔭 **Current Focus:** Building scalable microservices and modular monoliths in **Go (Golang)** using Clean Architecture.
+- ⚙️ **System Design & Core Principles:** Designing stateless REST APIs, JWT authentication middlewares, structured logging (`slog`), and graceful shutdown lifecycles.
+- 🗄️ **Data Persistence:** Structuring relational schemas, database migrations, and ACID-compliant workflows in **PostgreSQL** and **SQLite**.
+- 🐳 **DevOps & Containers:** Orchestrating reproducible developer environments using **Docker** and multi-container **Docker Compose** pipelines.
 
+---
+
+## 🛠️ Tech Stack & Tooling
+
+### 💻 Languages & Frameworks
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ Backend Development
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
-
-### 🗄️ Databases
-
+### 🗄️ Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🐳 Tools & Technologies
-
+### 🛠️ Tooling & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux / Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 E-Commerce API
-
-A backend API project designed for managing e-commerce functionality.
-
-**Technologies Used:**
-
-- Go
-- REST API
-- PostgreSQL
-- Authentication
-
-🔗 Repository: https://github.com/anand-gec/Ecommerce-API
+### 🛒 [E-Commerce Backend API](https://github.com/anand-gec/Ecommerce-API)
+> A scalable, production-oriented backend API in Go handling product catalogs, inventory management, and order lifecycles.
+- **Tech Stack:** Go, PostgreSQL, REST API, JWT
+- **Key Features:**
+  - Secure user and admin authentication using JSON Web Tokens (JWT).
+  - Robust schema migrations and transaction handling in PostgreSQL.
+  - Granular CRUD endpoints for products, shopping carts, and order processing.
 
 ---
 
-### 👤 User Management API
-
-A secure REST API for user authentication and management.
-
-**Features:**
-
-- 🔐 User Registration & Login
-- 🔑 JWT Authentication
-- 👥 Role-Based Access Control
-- 🔒 Password Hashing
-- 🗄️ PostgreSQL Database Integration
+### 🎓 [Student Management API](https://github.com/anand-gec)
+> A Go backend API engineered using Clean Architecture principles to separate business logic from external frameworks.
+- **Tech Stack:** Go, SQLite / PostgreSQL, JWT, Docker
+- **Key Features:**
+  - Layered architecture (Domain, Use Case, Repository, Delivery/HTTP).
+  - Structured application observability using Go's standard `slog` package.
+  - OS signal handling for smooth, graceful server shutdowns without dropping active requests.
 
 ---
 
-### ⚡ FastAPI Projects
-
-Backend applications built using Python and FastAPI.
-
-**Technologies Used:**
-
-- Python
-- FastAPI
-- PostgreSQL
-- REST APIs
-- Docker
+### 👤 [User Authentication & RBAC Service](https://github.com/anand-gec)
+> A secure authentication and authorization microservice built with FastAPI and PostgreSQL.
+- **Tech Stack:** Python, FastAPI, PostgreSQL, Docker
+- **Key Features:**
+  - Password hashing utilizing industry-standard `bcrypt`.
+  - Role-Based Access Control (RBAC) ensuring fine-grained endpoint authorization.
+  - Containerized with Docker and ready for automated testing.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
-![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anand-gec&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anand-gec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anand's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-gec&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anand-gec&layout=compact&theme=tokyonight)
+<div align="center" style="margin-top: 15px;">
+  <img src="https://streak-stats.demolab.com?user=anand-gec&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+</div>
 
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=anand-gec&theme=tokyonight)
-
----
-
-## 📈 Contribution Graph
-
-![Anand's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anand-gec&theme=tokyo-night)
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anand-gec&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="97%" />
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect & Collaborate
 
-💼 GitHub: https://github.com/anand-gec
+- **GitHub:** [@anand-gec](https://github.com/anand-gec)
+- **Open To:** Backend engineering roles, Go/Python collaborations, and open-source contributions.
 
----
-
-### 💭 Developer Quote
-
-> "First, solve the problem. Then, write the code."
-
----
-
-⭐ Feel free to explore my repositories and connect with me!
-
-### Thanks for visiting my GitHub profile! 🚀
+> *"First, solve the problem. Then, write the code."*
